@@ -1,0 +1,9 @@
+{
+	"name": "adf-dew",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ff3f8152-ce7e-4100-aa4d-d032276d1740",
+		"tenantId": "604c1504-c6a3-4080-81aa-b33091104187"
+	}
+}
